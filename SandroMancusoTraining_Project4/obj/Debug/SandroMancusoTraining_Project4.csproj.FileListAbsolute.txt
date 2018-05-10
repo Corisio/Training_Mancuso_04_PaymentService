@@ -1,0 +1,14 @@
+D:\Repositorios GIT\TDD Course with Sandro Mancuso\SandroMancusoTraining_Project4\SandroMancusoTraining_Project4\bin\Debug\SandroMancusoTraining_Project4.dll
+D:\Repositorios GIT\TDD Course with Sandro Mancuso\SandroMancusoTraining_Project4\SandroMancusoTraining_Project4\bin\Debug\SandroMancusoTraining_Project4.pdb
+D:\Repositorios GIT\TDD Course with Sandro Mancuso\SandroMancusoTraining_Project4\SandroMancusoTraining_Project4\bin\Debug\Castle.Core.dll
+D:\Repositorios GIT\TDD Course with Sandro Mancuso\SandroMancusoTraining_Project4\SandroMancusoTraining_Project4\bin\Debug\Moq.dll
+D:\Repositorios GIT\TDD Course with Sandro Mancuso\SandroMancusoTraining_Project4\SandroMancusoTraining_Project4\bin\Debug\nunit.framework.dll
+D:\Repositorios GIT\TDD Course with Sandro Mancuso\SandroMancusoTraining_Project4\SandroMancusoTraining_Project4\bin\Debug\Castle.Core.xml
+D:\Repositorios GIT\TDD Course with Sandro Mancuso\SandroMancusoTraining_Project4\SandroMancusoTraining_Project4\bin\Debug\Moq.xml
+D:\Repositorios GIT\TDD Course with Sandro Mancuso\SandroMancusoTraining_Project4\SandroMancusoTraining_Project4\bin\Debug\nunit.framework.pdb
+D:\Repositorios GIT\TDD Course with Sandro Mancuso\SandroMancusoTraining_Project4\SandroMancusoTraining_Project4\bin\Debug\nunit.framework.xml
+D:\Repositorios GIT\TDD Course with Sandro Mancuso\SandroMancusoTraining_Project4\SandroMancusoTraining_Project4\obj\Debug\SandroMancusoTraining_Project4.csprojAssemblyReference.cache
+D:\Repositorios GIT\TDD Course with Sandro Mancuso\SandroMancusoTraining_Project4\SandroMancusoTraining_Project4\obj\Debug\SandroMancusoTraining_Project4.csproj.CoreCompileInputs.cache
+D:\Repositorios GIT\TDD Course with Sandro Mancuso\SandroMancusoTraining_Project4\SandroMancusoTraining_Project4\obj\Debug\SandroMancusoTraining_Project4.csproj.CopyComplete
+D:\Repositorios GIT\TDD Course with Sandro Mancuso\SandroMancusoTraining_Project4\SandroMancusoTraining_Project4\obj\Debug\SandroMancusoTraining_Project4.dll
+D:\Repositorios GIT\TDD Course with Sandro Mancuso\SandroMancusoTraining_Project4\SandroMancusoTraining_Project4\obj\Debug\SandroMancusoTraining_Project4.pdb
