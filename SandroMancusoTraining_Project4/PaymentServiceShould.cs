@@ -13,10 +13,12 @@ namespace SandroMancusoTraining_Project4
         private PaymentService _paymentService;
         private User _user;
         private PaymentDetails _paymentDetails;
+        private UserInvalidException _userValidationException;
 
         [SetUp]
         public void SetUp()
         {
+            _userValidationException = null;
             _userValidationService = new Mock<IUserValidationService>();
             _paymentGateway = new Mock<IPaymentGateway>();
 
@@ -30,7 +32,9 @@ namespace SandroMancusoTraining_Project4
         {
             GivenUserValidationResponse(false);
 
-            Assert.Throws<UserInvalidException>(() => _paymentService.ProcessPayment(_user, _paymentDetails));
+            WhenProcessingPayment();
+
+            ThenUserValidationExceptionIsThrown();
         }
 
         [Test]
@@ -69,10 +73,15 @@ namespace SandroMancusoTraining_Project4
             {
                 _paymentService.ProcessPayment(_user, _paymentDetails);
             }
-            catch (Exception)
+            catch (UserInvalidException e)
             {
-                // ignored
+                _userValidationException = e;
             }
+        }
+
+        private void ThenUserValidationExceptionIsThrown()
+        {
+            Assert.IsNotNull(_userValidationException);
         }
     }
 }
